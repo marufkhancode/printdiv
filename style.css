@@ -1,0 +1,7 @@
+@media print {
+    * { display: none; }/* Hide everything ... */
+    #printTable { display: block; }/* ... except the required div */
+  }
+  /* table{
+    margin-top: 80px;
+  } */
